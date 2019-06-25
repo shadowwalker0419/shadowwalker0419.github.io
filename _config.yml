@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Guanghao Chen / HomePage"
 title_separator          : "-"
 name                     : &name "Guanghao Chen"
-description              : &description "personal description"
-url                      : https://shadowwalker00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Guanghao Chen's Homepage"
+url                      : https://shadowwalker0419.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shadowwalker00/shadowwalker00.github.io.github.io"
+repository               : "shadowwalker0419/shadowwalker0419.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Guanghao Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computer Science master student at UCSD. My research interest focuses on deep learning in computer vision tasks."
+  location         : "La Jolla, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
