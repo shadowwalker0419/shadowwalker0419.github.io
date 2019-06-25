@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Guanghao Chen"
-  avatar           : "profile.png"
-  bio              : "Computer Science master student at UCSD. My research interest focuses on deep learning in computer vision tasks."
+  avatar           : "chen.jpg"
+  bio              : "A Computer Science master student at UCSD. My research interest focuses on deep learning in computer vision tasks."
   location         : "La Jolla, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
