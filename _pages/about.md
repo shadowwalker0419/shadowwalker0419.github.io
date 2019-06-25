@@ -10,11 +10,15 @@ redirect_from:
 
 Guanghao Chen (陈光皓)
 ======
+2018 Fall Master Student
+Department of Computer Science and Engineering
+University of California, San Diego
+Email: guc001[at]eng[dot]ucsd[dot]edu
 
 
 About Me
 ======
-I am a master student from the computer science and engineering department at University of California, San Diego.
+I am a master student from the computer science and engineering department at University of California, San Diego. My research interest focuses on machine learning and deep learning applying for computer vision tasks.
 
 Prior to coming to UCSD, I received my B.E. degree from Northeastern University in Shenyang, China.
 
