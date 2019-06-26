@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "Guanghao Chen (陈光皓)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Guanghao Chen (陈光皓)
-======
 + 2018 Fall Master Student
 
 + Department of Computer Science and Engineering
