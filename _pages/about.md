@@ -10,10 +10,13 @@ redirect_from:
 
 Guanghao Chen (陈光皓)
 ======
-2018 Fall Master Student
-Department of Computer Science and Engineering
-University of California, San Diego
-Email: guc001[at]eng[dot]ucsd[dot]edu
++ 2018 Fall Master Student
+
++ Department of Computer Science and Engineering
+
++ University of California, San Diego
+
++ Email: guc001[at]eng[dot]ucsd[dot]edu
 
 
 About Me
